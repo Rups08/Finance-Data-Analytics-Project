@@ -105,7 +105,7 @@ The dashboard provides insights through different visualizations:
 
 ## 📸 Dashboard Preview
 
-![Finance Dashboard](Finance_Dashboard_Screenshot.png)
+![Finance Dashboard](Dashboard_Screenshot.png)  
 
 ---
 
