@@ -8,6 +8,12 @@ The objective of this project is to transform raw financial data into actionable
 
 ---
 
+## 📸 Dashboard Preview
+
+![Finance Dashboard](Dashboard_Screenshot.png)  
+
+---  
+
 ## 🏢 Business Problem
 
 Financial organizations handle large volumes of transaction data. The challenge is to analyze this data effectively and provide insights that support business decision-making.
@@ -39,10 +45,12 @@ Finance-Data-Analytics-Project
 ├── Dataset
 │   └── Fact_Financial_Transactions_New.csv
 │
-├── SQL Scripts.sql
+├── SQL_Scripts.sql
 │
-├── PowerBI Dashboard
-│   └── Finance Dashboard.pbix
+├── PowerBI-Dashboard
+│   └── Finance_Dashboard.pbix
+│
+├── Dashboard_Screenshot.png
 │
 └── README.md
 ```
@@ -66,6 +74,16 @@ The dataset contains financial transaction details such as:
 * Payment Status
 
 ---
+
+## 🔄 Data Analysis Process
+
+1. Imported financial transaction data into SQL Server
+2. Performed data validation and analysis using SQL queries
+3. Created KPIs and DAX measures in Power BI
+4. Built interactive dashboard visuals
+5. Generated business insights from financial trends
+
+--- 
 
 ## 📊 Finance Transaction Analytics Dashboard (2023–2025)
 
@@ -110,9 +128,15 @@ Key analysis includes:
 
 ---
 
-## 📸 Dashboard Preview
+## 🧩 Skills Demonstrated
 
-![Finance Dashboard](Dashboard_Screenshot.png)  
+- SQL Querying
+- Data Cleaning
+- Data Analysis
+- Power BI Dashboard Development
+- DAX Measures
+- Financial Reporting
+- Business Intelligence
 
 ---
 
@@ -122,7 +146,7 @@ Key analysis includes:
 
 Finance Analyst | Data Analytics Enthusiast
 
-### Skills:
+### Technical Skills
 
 SQL | Power BI | DAX | Data Visualization | Financial Analytics
 
