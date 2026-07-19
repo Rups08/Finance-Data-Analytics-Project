@@ -67,9 +67,16 @@ The dataset contains financial transaction details such as:
 
 ---
 
-## 📈 Power BI Dashboard Analysis
+## 📊 Finance Transaction Analytics Dashboard (2023–2025)
 
-The dashboard provides insights through different visualizations:
+This Power BI dashboard provides interactive analysis of financial transactions from 2023 to 2025.
+
+Key analysis includes:
+- Monthly Revenue Trend
+- Revenue by Product Category
+- Country-wise Revenue Analysis
+- Payment Status Analysis
+- Profit and Revenue Performance
 
 ### 1. Monthly Revenue Trend
 
