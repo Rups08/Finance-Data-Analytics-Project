@@ -105,7 +105,7 @@ The dashboard provides insights through different visualizations:
 
 ## 📸 Dashboard Preview
 
-(Add Power BI Dashboard screenshot here)
+![Finance Dashboard](Finance_Dashboard_Screenshot.png)
 
 ---
 
