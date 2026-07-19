@@ -42,18 +42,17 @@ This project helps answer:
 ```
 Finance-Data-Analytics-Project
 │
-├── Dataset
-│   └── Fact_Financial_Transactions_New.csv
+├── Fact_Financial_Transactions_New.csv
 │
 ├── SQL_Scripts.sql
 │
 ├── PowerBI-Dashboard
-│   └── Finance_Dashboard.pbix
+│   └── Finance_Transaction_Analytics_Dashboard.pbix
 │
 ├── Dashboard_Screenshot.png
 │
 └── README.md
-```
+``` 
 
 ---
 
